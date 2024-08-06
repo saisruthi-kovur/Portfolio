@@ -25,7 +25,7 @@ const experiences = [
         location: "Riverside, CA",
         description: (
             <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>
-                <li>Graduated with an 3.61 GPA in Master of Science, Computer Science.</li>
+                <li>Graduated with a Master of Science in Computer Science.</li>
                 <li>Relevant Coursework:  Advanced Operating Systems, Advanced Computer Architecture, Artificial Intelligence, Data Mining Techniques, Information Retrieval and Web Search, Big Data Management, Database Management Systems.</li>
             </ul>
         ),
@@ -44,7 +44,7 @@ const experiences = [
         location: "Andhra Pradesh, India",
         description: (
             <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>
-                <li>Graduated with an 3.8 GPA in Bachelor of Technology, Computer Science & Engineering.</li>
+                <li>Graduated with a Bachelor of Technology in Computer Science and Engineering.</li>
                 <li>Relevant Coursework: Data Structures and Algorithms, Object Oriented Programming, Computer Networks, Algorithm Analysis and Design, Cloud Foundation (Google Cloud Platform), Probability and Statistics for Engineers, Theory of Computation.</li>
             </ul>
         ),
