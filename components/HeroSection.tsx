@@ -44,7 +44,7 @@ const HeroSection = () => {
                   </a>
                   <a
                     className="group flex items-center transition cursor-pointer"
-                    href="https://drive.google.com/file/d/1103S2MZL6A-EfemEEswuYWSFOBD6lk5K/view?usp=sharing"
+                    href="https://drive.google.com/file/d/17ylkZdn-wEM3hWTRjUCvtEMNeiwxf3nE/view?usp=drive_link"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
